@@ -51,7 +51,7 @@ topics:
     web_url: https://github.com/Dsackler
     image_url: https://image.flaticon.com/icons/png/512/25/25231.png
 
-  - name: Web design
+  #- name: Web design
 
   - name: LinkedIn
     web_url: https://www.linkedin.com/in/david-sackler-80b780194/
