@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects: 
+    projects: personal-website, assignments, bazaar, 
     # - repo-name
 
 # social_media:
